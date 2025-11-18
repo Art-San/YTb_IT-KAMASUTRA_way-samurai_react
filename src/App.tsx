@@ -1,13 +1,13 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import './App.css'
-import { TracksList } from './TracksList'
-
+// import { TracksList } from './ui/TracksList.'
+import { MainPage } from './MainPage'
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <>
-      <div>
+      {/* <div>
         <h1 className="text-3xl font-bold text-amber-300">Hello world!</h1>
       </div>
       <h1>Vite + React</h1>
@@ -18,8 +18,8 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
-      </div>
-      <TracksList />
+      </div> */}
+      <MainPage />
     </>
   )
 }

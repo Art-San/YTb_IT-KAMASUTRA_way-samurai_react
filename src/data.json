@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "id": "40941736-77b7-4bb0-b3b2-ca1e31e1f4a6",
+      "type": "tracks",
+      "attributes": {
+        "title": "sddswe",
+        "user": {
+          "id": "19",
+          "name": "dimych"
+        },
+        "addedAt": "2025-10-28T16:18:51.946Z",
+        "attachments": [
+          {
+            "id": "07fc331e-edd2-4615-9c0b-4b76d2he956f",
+            "addedAt": "2025-10-28T16:18:49.738Z",
+            "updatedAt": "2025-10-28T16:18:49.738Z",
+            "version": 1,
+            "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Video/b36eca74-d59a-4bb2-89bb-9340c920188f_1.mp3",
+            "contentType": "audio/mpeg",
+            "originalName": "1.mp3",
+            "fileSize": 70217
+          }
+        ],
+        "images": {
+          "main": [
+            {
+              "type": "medium",
+              "width": 156,
+              "height": 156,
+              "fileSize": 5646,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/cf8be8f1-c446-415d-af72-4112d3cb1569_image.png"
+            },
+            {
+              "type": "original",
+              "width": 213,
+              "height": 213,
+              "fileSize": 12052,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/35c76ebd-511e-4e4f-b1e2-006ef8dfc05d_Ð°Ð¸ÌÑÐ¸Ð»Ð¸ÐºÐ±ÐµÐ· Ð¸Ð· ÑÐ°ÑÐ¸Ð»Ñ.jpg"
+            },
+            {
+              "type": "thumbnail",
+              "width": 48,
+              "height": 48,
+              "fileSize": 1159,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/463a6b88-44cc-48cb-8bb1-229d3153a692_image.png"
+            }
+          ]
+        },
+        "currentUserReaction": 0,
+        "publishedAt": "2025-10-28T19:48:05.967Z",
+        "likesCount": 0,
+        "isPublished": true
+      },
+      "relationships": {
+        "artists": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "40941736-77b7-4bb0-b3b2-cate31e1f4a6",
+      "type": "tracks",
+      "attributes": {
+        "title": "sddswe",
+        "user": {
+          "id": "19",
+          "name": "dimych"
+        },
+        "addedAt": "2025-10-28T16:18:51.946Z",
+        "attachments": [
+          {
+            "id": "07fc331e-edd2-4615-9c0b-4b76d2ke956f",
+            "addedAt": "2025-10-28T16:18:49.738Z",
+            "updatedAt": "2025-10-28T16:18:49.738Z",
+            "version": 1,
+            "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Video/b36eca74-d59a-4bb2-89bb-9340c920188f_1.mp3",
+            "contentType": "audio/mpeg",
+            "originalName": "1.mp3",
+            "fileSize": 70217
+          }
+        ],
+        "images": {
+          "main": [
+            {
+              "type": "medium",
+              "width": 156,
+              "height": 156,
+              "fileSize": 5646,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/cf8be8f1-c446-415d-af72-4112d3cb1569_image.png"
+            },
+            {
+              "type": "original",
+              "width": 213,
+              "height": 213,
+              "fileSize": 12052,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/35c76ebd-511e-4e4f-b1e2-006ef8dfc05d_Ð°Ð¸ÌÑÐ¸Ð»Ð¸ÐºÐ±ÐµÐ· Ð¸Ð· ÑÐ°ÑÐ¸Ð»Ñ.jpg"
+            },
+            {
+              "type": "thumbnail",
+              "width": 48,
+              "height": 48,
+              "fileSize": 1159,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/463a6b88-44cc-48cb-8bb1-229d3153a692_image.png"
+            }
+          ]
+        },
+        "currentUserReaction": 0,
+        "publishedAt": "2025-10-28T19:48:05.967Z",
+        "likesCount": 0,
+        "isPublished": true
+      },
+      "relationships": {
+        "artists": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "40941736-77b7-4bb0-b3b2-ca1e3de1f4a6",
+      "type": "tracks",
+      "attributes": {
+        "title": "sddswe",
+        "user": {
+          "id": "19",
+          "name": "dimych"
+        },
+        "addedAt": "2025-10-28T16:18:51.946Z",
+        "attachments": [
+          {
+            "id": "07fc331e-edd2-4615-9c0b-4r76dce956f",
+            "addedAt": "2025-10-28T16:18:49.738Z",
+            "updatedAt": "2025-10-28T16:18:49.738Z",
+            "version": 1,
+            "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Video/b36eca74-d59a-4bb2-89bb-9340c920188f_1.mp3",
+            "contentType": "audio/mpeg",
+            "originalName": "1.mp3",
+            "fileSize": 70217
+          }
+        ],
+        "images": {
+          "main": [
+            {
+              "type": "medium",
+              "width": 156,
+              "height": 156,
+              "fileSize": 5646,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/cf8be8f1-c446-415d-af72-4112d3cb1569_image.png"
+            },
+            {
+              "type": "original",
+              "width": 213,
+              "height": 213,
+              "fileSize": 12052,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/35c76ebd-511e-4e4f-b1e2-006ef8dfc05d_Ð°Ð¸ÌÑÐ¸Ð»Ð¸ÐºÐ±ÐµÐ· Ð¸Ð· ÑÐ°ÑÐ¸Ð»Ñ.jpg"
+            },
+            {
+              "type": "thumbnail",
+              "width": 48,
+              "height": 48,
+              "fileSize": 1159,
+              "url": "https://production-it-incubator.s3.eu-central-1.amazonaws.com/apihub-spotifun/Image/463a6b88-44cc-48cb-8bb1-229d3153a692_image.png"
+            }
+          ]
+        },
+        "currentUserReaction": 0,
+        "publishedAt": "2025-10-28T19:48:05.967Z",
+        "likesCount": 0,
+        "isPublished": true
+      },
+      "relationships": {
+        "artists": {
+          "data": []
+        }
+      }
+    }
+  ],
+  "included": [],
+  "meta": {
+    "page": 1,
+    "pageSize": 1,
+    "totalCount": 30,
+    "pagesCount": 30,
+    "nextCursor": null
+  }
+}
